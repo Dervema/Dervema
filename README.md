@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dervema
+- 👀 I’m interested in ... learning to code. I am currently working through The Odin Project, and am brand new at everything coding!
+- 🌱 I’m currently learning ... How to connect Git and Github. I will be moving onto the HTML section this week. 
+- 📫 How to reach me ... my email address is SteveDervema@pm.me
+- I have several goals and reasons for learning to code if anyone is interested in chatting please don't be afraid to shoot an email! I will be looking for communities and friends as I do not know anyone irl who does this.
